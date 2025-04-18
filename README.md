@@ -43,11 +43,6 @@
 ![Onboarding](https://user-images.githubusercontent.com/108392678/217715066-19026169-ab51-450e-b21c-cc925940d03e.jpg)
 ![Profile and Home](https://user-images.githubusercontent.com/108392678/217715079-d66eb960-f5cf-4cdf-8f33-b45b320fca7e.jpg)
 
-### Links
-
-- Github: [Code](https://github.com/marventures/little-lemon-app)
-- Demo : Scan the [QR Code](https://expo.dev/preview/update?message=Publish%20Update&updateRuntimeVersion=exposdk%3A47.0.0&createdAt=2024-07-03T09%3A21%3A32.588Z&slug=exp&projectId=221d2bc0-e34d-4538-b828-2e1cabe5bba7&group=2468e4a0-6270-4a2e-8e34-17167031fde8) to see the demo.
-
 ## My process
 
 ### Built with
@@ -146,8 +141,4 @@ useEffect(() => {
 - [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/api/) - This helped me for saving user settings.
 - [ContextAPI](https://beta.reactjs.org/reference/react/createContext)- This helped me for creating a authentication context for login.
 
-## Author
 
-- Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
-- Twitter - [@marventures11](https://www.twitter.com/marventures11)
